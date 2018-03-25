@@ -1,0 +1,44 @@
+c:\users\claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe.config
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.pdb
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.frm_login.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Properties.Resources.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.csproj.GenerateResource.Cache
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.exe
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.pdb
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.MainFormEvent.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.ExitForm.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.csprojResolveAssemblyReference.cache
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.AddConstestant.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form5.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form7.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.ContestntSettings.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.AddJudge.resources
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe.manifest
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.application
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.exe.manifest
+C:\Users\Claveria\documents\visual studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.application
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Scoring.resources
+C:\Users\Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form8.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe.config
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.pdb
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe.manifest
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.application
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\bin\Debug\Event_Scoring.pdb
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.csprojResolveAssemblyReference.cache
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.frm_login.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.AddConstestant.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.ExitForm.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.AddJudge.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form5.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.ContestntSettings.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form7.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Form8.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.MainFormEvent.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Properties.Resources.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.Scoring.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.csproj.GenerateResource.Cache
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.exe.manifest
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\Event_Scoring\Event_Scoring\obj\Debug\Event_Scoring.application
